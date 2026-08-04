@@ -1,0 +1,13 @@
+id_armada,id_wh,nama,kapasitas_m3,konsumsi_km_per_liter
+ARM-01,WH-01,L300,690,8.2
+ARM-02,WH-01,Grandmax,1010,8.3
+ARM-03,WH-01,Hino,760,7.6
+ARM-04,WH-02,L300,730,8.2
+ARM-05,WH-02,Carry,740,8
+ARM-09,WH-02,Hino,840,7.6
+ARM-06,WH-03,Grandmax,1010,8.3
+ARM-10,WH-03,Hino,940,7.6
+ARM-11,WH-03,Traga,940,7.8
+ARM-07,WH-04,L300,630,8.2
+ARM-08,WH-04,Traga,690,7.8
+ARM-12,WH-04,Hino,690,7.6
